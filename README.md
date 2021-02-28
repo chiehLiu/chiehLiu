@@ -9,17 +9,17 @@ Organize person, problem solver, independent employee with high attention to det
 Interseted in the entire front-end spectrum and really want to dive into ambitious projects with positive people.<br>
 </p>
 
-## My values
+## 💕My values
 It gets easier. Every day it gets a little easier,
 but you have to do it every day. That is the hard part.
 
-## 🔭 Goals of 2021
+## 👉 Goals of 2021
 
 1. Get a job as a front-end developer of course!
 2. Sharpen my skill and keep learning!
 3. Always stay passion about what I love, and keep doing it!
 
-## 🧠 
+## 🌱 
 ### 📚 Langues and Frameworks
 - HTML5
 - CSS3, SCSS, SASS
