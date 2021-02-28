@@ -19,8 +19,7 @@ but you have to do it every day. That is the hard part.
 2. Sharpen my skill and keep learning!
 3. Always stay passion about what I love, and keep doing it!
 
-## 🌱 
-### 📚 Langues and Frameworks
+## 📚 Langues and Frameworks
 - HTML5
 - CSS3, SCSS, SASS
 - Bootstrap
@@ -28,7 +27,7 @@ but you have to do it every day. That is the hard part.
 - jQuery
 - AJAX, Fetch API
 
-### 🔧 Tool
+## 🔧 Tool
 - Git/ Github
 - CLI
 - npm
