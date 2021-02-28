@@ -37,7 +37,7 @@ but you have to do it every day. That is the hard part.
 
 
 ## 💡 Projects
-- [Youtube Serach Engin](https://chiehliu.github.io/git-projects/YoutubeSearchEngine/index.html)
+- [Youtube Serach Engine](https://chiehliu.github.io/git-projects/YoutubeSearchEngine/index.html)
 - [Mars Weather App](https://chiehliu.github.io/git-projects/MarsWeatherApp/index.html)
 - [Exchange rate](https://chiehliu.github.io/git-projects/exchange-rate/index.html)
 - [Amoung us](https://chiehliu.github.io/git-projects/Amongus/index.html)
