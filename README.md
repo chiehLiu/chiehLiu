@@ -3,11 +3,11 @@
 <img margin="0 auto" src="https://media.giphy.com/media/xULW8ExK2Z8lVVGQfK/giphy.gif"></img>
 </p>
 
-
+<p align="center">
 My name is Chieh Liu, about to become a Front-End web developer. I Have passion for web relate technology, try to learn it everyday.<br>
 Organize person, problem solver, independent employee with high attention to detail. Fan of comics, movies, TV series and workout.<br>
 Interseted in the entire front-end spectrum and really want to dive into ambitious projects with positive people.<br>
-
+</p>
 
 ## My values
 It gets easier. Every day it gets a little easier,
