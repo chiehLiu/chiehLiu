@@ -9,7 +9,7 @@ Organize person, problem solver, independent employee with high attention to det
 Interseted in the entire front-end spectrum and really want to dive into ambitious projects with positive people.<br>
 </p>
 
-## 💕My values
+## 💕
 It gets easier. Every day it gets a little easier,
 but you have to do it every day. That is the hard part.
 
