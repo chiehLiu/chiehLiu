@@ -1,6 +1,6 @@
 <h1 align="center">Chieh #chiehLiu </h1>
 <p align="center">
-<img margin="0 auto" src="https://media.giphy.com/media/xULW8ExK2Z8lVVGQfK/giphy.gif"></img>
+<img margin="0 auto" src="https://media.giphy.com/media/l2YOxU0vp6dD91UC4/giphy.gif"></img>
 </p>
 
 <p align="center">
