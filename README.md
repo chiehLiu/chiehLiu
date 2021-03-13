@@ -1,4 +1,4 @@
-<h1 align="center">Chieh Liu </h1>
+<h1 align="center">C </h1>
 <p align="center">
 <img margin="0 auto" src="https://media.giphy.com/media/l2YOxU0vp6dD91UC4/giphy.gif"></img>
 </p>
