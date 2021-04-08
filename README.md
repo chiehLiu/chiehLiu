@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-My name is Chieh Liu, on my way to become a Front-End web developer. I Have passion for web relate technology, try to learn it everyday.<br>
-Organize person, problem solver, independent employee with high attention to detail. Fan of comics, movies, TV series and workout.<br>
+My name is Chieh Liu, on my way to become a Front-End web developer. I have passion for web relate technology, try to learn it everyday.<br>
+Organized person, problem solver, independent employee with high attention to detail. Fan of comics, movies, TV series and workout.<br>
 Interseted in the entire front-end spectrum and really want to dive into ambitious projects with positive people.<br>
 </p>
 
