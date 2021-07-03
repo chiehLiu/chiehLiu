@@ -21,7 +21,7 @@ but you have to do it every day. That is the hard part.
 
 ## 📚 Langues and Frameworks
 - HTML5
-- CSS3, SCSS, SASS
+- CSS3, SCSS
 - Bootstrap
 - JavaScript
 - jQuery
