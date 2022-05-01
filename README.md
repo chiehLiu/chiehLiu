@@ -40,6 +40,7 @@ but you have to do it every day. That is the hard part.
 
 
 ## 💡 Projects
+- [Petni](https://petni.vercel.app/)
 - [Youtube Serach Engine](https://chiehliu.github.io/git-projects/YoutubeSearchEngine/index.html)
 - [Mars Weather App](https://chiehliu.github.io/git-projects/MarsWeatherApp/index.html)
 - [Exchange rate](https://chiehliu.github.io/git-projects/exchange-rate/index.html)
