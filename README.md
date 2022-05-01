@@ -15,7 +15,7 @@ but you have to do it every day. That is the hard part.
 
 ## 👉 Goals of 2022
 
-1. Learn more about React and relate tools
+1. dive deeper into React and relate tools
 2. Sharpen my skill and keep learning!
 3. Always stay passion about what I love, and keep doing it!
 
