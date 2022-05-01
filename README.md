@@ -13,9 +13,9 @@ Interested in the entire front-end spectrum and really want to dive into ambitio
 It gets easier. Every day it gets a little easier,
 but you have to do it every day. That is the hard part.
 
-## 👉 Goals of 2021
+## 👉 Goals of 2022
 
-1. Get a job as a front-end developer of course!
+1. Learn more about React and relate tools
 2. Sharpen my skill and keep learning!
 3. Always stay passion about what I love, and keep doing it!
 
@@ -26,6 +26,8 @@ but you have to do it every day. That is the hard part.
 - JavaScript
 - jQuery
 - AJAX, Fetch API
+- React
+- Typescript
 
 ## 🔧 Tool
 - Git/ Github
@@ -33,6 +35,8 @@ but you have to do it every day. That is the hard part.
 - npm
 - Visual Studio Code
 - Hexo
+- Redux
+- Next.js
 
 
 ## 💡 Projects
