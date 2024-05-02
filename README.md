@@ -1,6 +1,6 @@
 <h1 align="center">Chieh Liu 劉杰 </h1>
 <p align="center">
-<img margin="0 auto" src="https://media.giphy.com/media/l2YOxU0vp6dD91UC4/giphy.gif"></img>
+<!-- <img margin="0 auto" src="https://media.giphy.com/media/l2YOxU0vp6dD91UC4/giphy.gif"></img> -->
 </p>
 
 <p align="center">
