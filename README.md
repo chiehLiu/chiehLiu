@@ -13,7 +13,7 @@ Interested in the entire front-end spectrum and really want to dive into ambitio
 It gets easier. Every day it gets a little easier,
 but you have to do it every day. That is the hard part.
 
-## 👉 Goals of 2022
+## 👉 Goals
 
 1. dive deeper into React and relate tools
 2. Sharpen my skill and keep learning!
