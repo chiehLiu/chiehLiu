@@ -13,12 +13,6 @@ Interested in the entire front-end spectrum and really want to dive into ambitio
 It gets easier. Every day it gets a little easier,
 but you have to do it every day. That is the hard part.
 
-## 👉 Goals
-
-1. dive deeper into React and relate tools
-2. Sharpen my skill and keep learning!
-3. Always stay passion about what I love, and keep doing it!
-
 ## 📚 Langues and Frameworks
 - HTML5
 - CSS3, SCSS
@@ -28,6 +22,7 @@ but you have to do it every day. That is the hard part.
 - AJAX, Fetch API
 - React
 - Typescript
+- Python
 
 ## 🔧 Tool
 - Git/ Github
@@ -37,10 +32,6 @@ but you have to do it every day. That is the hard part.
 - Hexo
 - Redux
 - Next.js
-
-
-## 💡 Projects
-- [Petni](https://petni.vercel.app/)
 
 ## 🔗 Get in touch
 - Personal site: https://chiehliu.github.io/
