@@ -32,5 +32,5 @@
 
 ---
 
-## 🌐 
-- Personal Website: [chiehliu.github.io](https://chiehliu.github.io/)
+## 🌐 Blog
+- Personal Blog: [chiehliu.github.io](https://chiehliu.github.io/)
