@@ -1,38 +1,36 @@
-<h1 align="center">Chieh Liu 劉杰 </h1>
-<p align="center">
-<!-- <img margin="0 auto" src="https://media.giphy.com/media/l2YOxU0vp6dD91UC4/giphy.gif"></img> -->
-</p>
+<h1 align="center">Chieh Liu 劉杰</h1>
 
 <p align="center">
-My name is Chieh Liu, Front-End web developer. I have passion for web relate technology, try to learn it everyday.<br>
-Organized person, problem solver, independent employee with high attention to detail. Fan of comics, movies, TV series and workout.<br>
-Interested in the entire front-end spectrum and really want to dive into ambitious projects with positive people.<br>
+  Front-End Web Developer with a strong passion for building interactive and accessible web experiences.<br>
+  Detail-oriented, self-motivated, and always eager to learn and grow with new technologies.<br>
+  Fan of comics, movies, TV series, and fitness. Excited to collaborate on ambitious projects with positive and driven teams.
 </p>
 
-## 💕
-It gets easier. Every day it gets a little easier,
-but you have to do it every day. That is the hard part.
+---
 
-## 📚 Langues and Frameworks
-- HTML5
-- CSS3, SCSS
+## 💡 Personal Quote
+> _"It gets easier. Every day it gets a little easier, but you have to do it every day. That is the hard part."_
+
+---
+
+## 🛠 Languages & Frameworks
+- HTML5, CSS3, SCSS
+- JavaScript, TypeScript
 - Bootstrap
-- JavaScript
-- jQuery
-- AJAX, Fetch API
-- React
-- Typescript
+- React, Next.js
+- Redux
 - Python
 
-## 🔧 Tool
-- Git/ Github
-- CLI
+---
+
+## 🔧 Tools & Environments
+- Git & GitHub
+- CLI / Terminal
 - npm
 - Visual Studio Code
 - Hexo
-- Redux
-- Next.js
 
-## 🔗 Get in touch
-- Personal site: https://chiehliu.github.io/
+---
 
+## 🌐 
+- Personal Website: [chiehliu.github.io](https://chiehliu.github.io/)
