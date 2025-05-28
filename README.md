@@ -19,8 +19,7 @@
 - Bootstrap
 - React, Next.js
 - Redux
-- Python
-
+- Python (for leetcode)
 ---
 
 ## 🔧 Tools & Environments
@@ -29,7 +28,7 @@
 - npm
 - Visual Studio Code
 - Hexo
-
+- Docker
 ---
 
 ## 🌐 Blog
